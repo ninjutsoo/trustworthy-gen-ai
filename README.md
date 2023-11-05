@@ -1,6 +1,6 @@
 # Trustworthy Generative AI<span id="head"/>
 
-A collection of papers and resources on the Trustworthy Generative AI. 
+A collection of papers and resources on the Trustworthy Generative AI. For now, my main focus is on Multi-Modality Generative AI and more specifically attack generation for text to image. 
 
 ## Table of Contents<span id="table-of-contents"/>
 * [Trustworthiness of Generative AI](#head)
