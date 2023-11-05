@@ -18,6 +18,8 @@ A collection of papers and resources on the Trustworthy Generative AI. For now, 
        * [Blogs](#i2t-generative-blogs)
        * [Datasets](#i2t-generative-datasets)
 
+## Text Generative AI<span id="text-generative"/>
+## Image Generative AI<span id="image-generative"/>
 ## Multi-Modality Generative AI<span id="mlt-generative"/>
 ### T2I Generative AI<span id="t2i-generative"/>
 #### T2I Attacks<span id="t2i-generative-attacks"/>
