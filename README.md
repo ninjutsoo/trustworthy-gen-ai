@@ -44,6 +44,8 @@ Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning a
 * LAION COCO [link](https://huggingface.co/datasets/laion/laion-coco)
 ### I2T Generative AI<span id="i2t-generative"/>
 ##### Papers <span id="i2t-generative-papers"/>
+* I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models [link](https://arxiv.org/abs/2306.07591)
 ##### Blogs <span id="i2t-generative-blogs"/>
+* I See Dead People, or It’s Intelligence, Jim, But Not As We Know It [link](https://medium.com/predict/i-see-dead-people-or-its-intelligence-jim-but-not-as-we-know-it-38830e9501ec)
 ##### Datasets <span id="i2t-generative-datasets"/>
 
