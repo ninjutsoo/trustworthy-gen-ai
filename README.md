@@ -31,6 +31,7 @@ Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning a
 ### T2I Generative AI<span id="t2i-generative"/>
 #### T2I Attacks<span id="t2i-generative-attacks"/>
 ##### Papers <span id="t2i-generative-attacks-papers"/>
+* FLIRT: Feedback Loop In-context Red Teaming (2023) [link](https://arxiv.org/abs/2308.04265)
 * Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning (2023) [link](https://arxiv.org/abs/2305.04175)
 * A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion (2023) [link](https://arxiv.org/abs/2303.16378)
 * Black Box Adversarial Prompting for Foundation Models (2023) [link](https://arxiv.org/abs/2302.04237)
